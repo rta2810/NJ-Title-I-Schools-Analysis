@@ -79,4 +79,4 @@ ORDER BY total_students DESC;
 
 ## Dashboard
 
-(Add your Google Looker Studio dashboard link here)
+https://datastudio.google.com/reporting/7a3438ee-4007-4c8d-a6be-9386fe6f4e27
