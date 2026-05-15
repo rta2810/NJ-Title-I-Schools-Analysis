@@ -1,0 +1,5 @@
+Google Looker Studio dashboard includes:
+- County ranking chart
+- School ranking table
+- Enrollment scorecards
+- Optional GIS map
